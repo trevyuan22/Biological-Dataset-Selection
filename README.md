@@ -1,4 +1,4 @@
-# SWYNEX-Biological-Dataset-Selection
+# Biological-Dataset-Selection
 
 Dataset - _Leptodirus_hochenwartii_ (Narrow-necked blind cave beetle) genome
 
